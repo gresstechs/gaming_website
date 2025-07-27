@@ -21,7 +21,7 @@ export default function Entrance() {
         <div className="bg-black/50 backdrop-blur-md rounded-lg p-8 border border-purple-500/20 mb-8">
           <h2 className="text-2xl font-bold text-white mb-4">Student Assignment Notice</h2>
           <div className="text-gray-300 space-y-3">
-            <p><strong>Student Name:</strong> John Doe</p>
+            <p><strong>Student Name:</strong> Chidera Progress Nwaokwa</p>
             <p><strong>Student ID:</strong> 12345678</p>
             <div className="bg-yellow-900/30 border border-yellow-500/50 rounded-lg p-4 mt-6">
               <p className="text-yellow-200 font-semibold">⚠️ DISCLAIMER</p>

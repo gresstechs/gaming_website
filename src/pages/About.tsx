@@ -22,7 +22,7 @@ export default function About() {
               <h2 className="text-3xl font-bold text-white mb-6">Our Story</h2>
               <div className="space-y-4 text-gray-300">
                 <p>
-                  Founded in 2020 by a group of passionate gamers, GameStore was born from a simple idea: 
+                  Founded in 2025 by a group of passionate gamers, GameStore was born from a simple idea: 
                   create a platform where gamers can discover, purchase, and enjoy the best games across all platforms.
                 </p>
                 <p>
