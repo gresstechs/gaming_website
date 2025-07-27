@@ -18,9 +18,9 @@ export default function Layout({ children }: LayoutProps) {
 
   const navLinks = [
     { path: '/home', label: 'Home' },
+    { path: '/about', label: 'About' },
     { path: '/products', label: 'Products' },
     { path: '/search', label: 'Search' },
-    { path: '/about', label: 'About' },
     { path: '/contact', label: 'Contact' },
     { path: '/links', label: 'Links' }
   ];
@@ -121,7 +121,7 @@ export default function Layout({ children }: LayoutProps) {
       <footer className="bg-black/80 backdrop-blur-md border-t border-purple-500/20 mt-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           <div className="text-center text-gray-400">
-            <p>&copy; 2024 GameStore. This is a student project for educational purposes only.</p>
+            <p>&copy; 2025 Progress GameStore LTD. This is a student project for educational purposes only.</p>
             <p className="mt-2 text-sm">Not a commercial website. No actual transactions are processed.</p>
           </div>
         </div>
