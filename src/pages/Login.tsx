@@ -111,7 +111,7 @@ export default function Login() {
             <h3 className="text-blue-200 font-semibold mb-2">Demo Accounts</h3>
             <div className="text-blue-100 text-sm space-y-1">
               <div>Regular User: any email + any password</div>
-              <div>Admin User: admin@gamestore.com + any password</div>
+              <div>Admin Users: admin@gamestore.com + any password</div>
             </div>
           </div>
 
